@@ -1,2 +1,4 @@
 # Bot de comentar no instagram
-Para que funcione corretamente é necessário que se baixe o geckodriver e instale o selenium (Deixar o geckodriver na mesma pasta onde o projeto se encontra).
+Para que funcione corretamente é necessário instalar o selenium na pasta do projeto. (no diretório do projeto insira: pip install selenium).
+Você precisa ter o navegador Mozilla Firefox para que bot possa cumprir com suas funções.
+(Projeto ainda em desenvolvimento)
